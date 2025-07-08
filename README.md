@@ -1,4 +1,4 @@
-# 📊 Assignment 1: Basics of Statistics
+# 📊 Data Science Assignment 1 : Basics of Statistics
 
 Welcome to my first data analysis assignment repository. This project involves basic statistical analysis using Python libraries such as Pandas, Matplotlib, and Seaborn.
 
